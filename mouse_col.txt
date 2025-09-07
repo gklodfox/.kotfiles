@@ -1,0 +1,13 @@
+PINK_SHADOW = #c64562
+PINK_SHADOW_DARKER = ##d3506a
+
+FUR = #fdfafb
+FUR_SHADOW = #cdacba
+
+BLUE = #bce9f9
+BLUE_DARKER = #8cc2fe
+
+
+
+
+

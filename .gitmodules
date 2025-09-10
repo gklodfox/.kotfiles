@@ -1,0 +1,27 @@
+[submodule "fox-alacritty-config"]
+	path = fox-alacritty-config
+	url = https://github.com/gklodfox/fox-alacritty-config.git
+[submodule "fox-dunst-config"]
+	path = fox-dunst-config
+	url = https://github.com/gklodfox/fox-dunst-config.git
+[submodule "fox-fish-config"]
+	path = fox-fish-config
+	url = https://github.com/gklodfox/fox-fish-config.git
+[submodule "fox-i3-config"]
+	path = fox-i3-config
+	url = https://github.com/gklodfox/fox-i3-config.git
+[submodule "fox-misc-config"]
+	path = fox-misc-config
+	url = https://github.com/gklodfox/fox-misc-config.git
+[submodule "fox-neovim-config"]
+	path = fox-neovim-config
+	url = https://github.com/gklodfox/fox-neovim-config.git
+[submodule "fox-picom-config"]
+	path = fox-picom-config
+	url = https://github.com/gklodfox/fox-picom-config.git
+[submodule "fox-qsampler-config"]
+	path = fox-qsampler-config
+	url = https://github.com/gklodfox/fox-qsampler-config.git
+[submodule "fox-tmux-config"]
+	path = fox-tmux-config
+	url = https://github.com/gklodfox/fox-tmux-config.git

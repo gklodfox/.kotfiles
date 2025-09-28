@@ -1,6 +1,6 @@
 [4mPlugins[m
 bang-bang	config		fish-spec	spark		wttr
-bass		export		omf		tmux-zen	z
+bass		export		omf		tmux-zen
 
 [4mThemes[m
 default	trout

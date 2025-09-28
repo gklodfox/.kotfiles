@@ -1,32 +1,32 @@
 [submodule "fox-alacritty-config"]
 	path = fox-alacritty-config
 	url = https://github.com/gklodfox/fox-alacritty-config.git
-    branch = master
+	branch = master
 [submodule "fox-dunst-config"]
 	path = fox-dunst-config
 	url = https://github.com/gklodfox/fox-dunst-config.git
-    branch = master
+	branch = master
 [submodule "fox-fish-config"]
 	path = fox-fish-config
 	url = https://github.com/gklodfox/fox-fish-config.git
-    branch = master
+	branch = master
 [submodule "fox-i3-config"]
 	path = fox-i3-config
 	url = https://github.com/gklodfox/fox-i3-config.git
-    branch = master
+	branch = master
 [submodule "fox-neovim-config"]
 	path = fox-neovim-config
 	url = https://github.com/gklodfox/fox-neovim-config.git
-    branch = master
+	branch = master
 [submodule "fox-picom-config"]
 	path = fox-picom-config
 	url = https://github.com/gklodfox/fox-picom-config.git
-    branch = master
+	branch = master
 [submodule "fox-qsampler-config"]
 	path = fox-qsampler-config
 	url = https://github.com/gklodfox/fox-qsampler-config.git
-    branch = master
+	branch = master
 [submodule "fox-tmux-config"]
 	path = fox-tmux-config
 	url = https://github.com/gklodfox/fox-tmux-config.git
-    branch = master
+	branch = master

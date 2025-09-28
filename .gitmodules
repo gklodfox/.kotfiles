@@ -10,9 +10,6 @@
 [submodule "fox-i3-config"]
 	path = fox-i3-config
 	url = https://github.com/gklodfox/fox-i3-config.git
-[submodule "fox-misc-config"]
-	path = fox-misc-config
-	url = https://github.com/gklodfox/fox-misc-config.git
 [submodule "fox-neovim-config"]
 	path = fox-neovim-config
 	url = https://github.com/gklodfox/fox-neovim-config.git

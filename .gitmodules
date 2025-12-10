@@ -1,7 +1,3 @@
-[submodule "fox-alacritty-config"]
-	path = fox-alacritty-config
-	url = https://github.com/gklodfox/fox-alacritty-config.git
-	branch = master
 [submodule "fox-dunst-config"]
 	path = fox-dunst-config
 	url = https://github.com/gklodfox/fox-dunst-config.git
@@ -30,3 +26,10 @@
 	path = fox-tmux-config
 	url = https://github.com/gklodfox/fox-tmux-config.git
 	branch = master
+[submodule "fox-kitty-config"]
+	path = fox-kitty-config
+	url = https://github.com/gklodfox/fox-kitty-config.git
+	branch = master
+[submodule "fox-hypr-config"]
+	path = fox-hypr-config
+	url = https://github.com/gklodfox/fox-hypr-config.git
